@@ -1,0 +1,11 @@
+name = "kauppalista-api"
+main = "src.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://rokka7854-commits.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kauppalista-db"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
